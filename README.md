@@ -26,3 +26,9 @@ Structuur Van Level:
 3. Onderaan: Doelwit einde beurt.
 
 Gemaakt door: Cady Eliana de Bruin
+
+## week 2
+
+hier is een kleine update van les 2.1.
+
+![gif](les2.1.gif)
