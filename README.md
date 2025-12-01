@@ -31,4 +31,8 @@ Gemaakt door: Cady Eliana de Bruin
 
 hier is een kleine update van les 2.1.
 
-![gif](les2.1.gif)
+![gif](Gifs/les2.1.gif)
+
+Kleine update voor les 2.2
+
+![gif2](Gifs/les2.2.gif)
