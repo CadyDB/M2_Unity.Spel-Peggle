@@ -36,3 +36,8 @@ hier is een kleine update van les 2.1.
 Kleine update voor les 2.2
 
 ![gif2](Gifs/les2.2.gif)
+
+## week 3
+
+hier is les 3.1.
+
