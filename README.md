@@ -41,3 +41,8 @@ Kleine update voor les 2.2
 
 hier is les 3.1.
 
+![gif3](Gifs/les3.1_no.score.gif)
+
+Samen met de oplopende Score
+
+![gif4](Gifs/les3.1_score.gif)

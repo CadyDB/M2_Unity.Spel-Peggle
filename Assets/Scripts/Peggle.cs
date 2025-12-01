@@ -18,6 +18,5 @@ public class Peggle : MonoBehaviour
         {
             Destroy(gameObject, 0.25f);
         }
-        Destroy(this.gameObject, 0.25f);
     }
 }
