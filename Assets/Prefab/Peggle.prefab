@@ -12,9 +12,10 @@ GameObject:
   - component: {fileID: 2853200806164851416}
   - component: {fileID: 377889561406214225}
   - component: {fileID: 3193599763529882600}
+  - component: {fileID: 7519178391378796468}
   m_Layer: 0
   m_Name: Peggle
-  m_TagString: Untagged
+  m_TagString: Combo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -135,10 +136,23 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4345855217765711385}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 28bb8fa6e08ff9c4bbe7dbebe91c4280, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Peggle
   hitsToDestroy: 3
   pointsPerHit: 10
+--- !u!114 &7519178391378796468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4345855217765711385}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61ad56422ff6ec3409fe388311e68f4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BumperHit
+  scoreValue: 100

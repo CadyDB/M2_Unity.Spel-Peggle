@@ -39,10 +39,16 @@ Kleine update voor les 2.2
 
 ## week 3
 
-hier is les 3.1.
+Hier is les 3.1.
 
 ![gif3](Gifs/les3.1_no.score.gif)
 
 Samen met de oplopende Score
 
 ![gif4](Gifs/les3.1_score.gif)
+
+Les 3.2
+
+![gif5](Gifs/Les3.2.gif)
+
+Hier zie je de combo die oploopt door de hoeveelheid hits de ball raakt.
