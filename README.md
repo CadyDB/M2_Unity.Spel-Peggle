@@ -58,3 +58,9 @@ Hier zie je de combo die oploopt door de hoeveelheid hits de ball raakt.
 les 4.1 en les 4.2, de UI is nu gekoppelt met de score en de multiplier.
 
 ![les4](Gifs/Les4.2.gif)
+
+## week 5
+
+les 5.2
+
+![les5.2](Gifs/Les5.2.gif)
